@@ -1,0 +1,25 @@
+#langchanger{
+    display: flex;
+    justify-content: right;
+    width: 0px;
+}
+
+#btnlangspn{
+    background: linear-gradient(to bottom, rgb(255, 0, 0) 0%, rgb(255, 0, 0) 30%, rgb(255, 255, 0) 30%, rgb(255, 255, 0) 70%, rgb(255, 0, 0) 70%, rgb(255, 0, 0) 100%);
+  }
+
+#btnlangeng{
+    background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 40%, rgb(255, 0, 0) 40%, rgb(255, 0, 0) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%);
+    
+}
+
+.btnchan{
+    border-style: outset;
+    border-color: black;
+    border-width: 3px;
+}
+
+.backgroundpls{
+    color: white;
+    background-color: rgba(107, 116, 26, 0.603);
+}

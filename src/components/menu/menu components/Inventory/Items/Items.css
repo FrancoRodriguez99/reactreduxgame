@@ -1,0 +1,39 @@
+.oneitem{
+    
+    list-style: none;
+}
+
+.someitem:hover .onHover{
+    visibility: visible;
+    display:contents;
+}
+
+.someitem{
+    display: flex;
+    flex-direction: column;
+}
+
+.onHover{
+    visibility: hidden;
+    display: none;
+}
+
+#items{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
+    width: 100%;
+    
+    overflow-y:scroll;
+}
+
+.items{
+    height: 150px;
+    width: 100px;
+}
+
+.item-sale{
+    height: 50px;
+    width: 100px;
+    margin-bottom: 10px;
+}

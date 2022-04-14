@@ -1,0 +1,15 @@
+#menu{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-image: url("../../assets/menubackground.jpg");
+    background-size: auto;
+    height: 410px;
+    max-height: 410px;
+}
+
+#fight-menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(252, 206, 121);
+}

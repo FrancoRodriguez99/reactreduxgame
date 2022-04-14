@@ -1,0 +1,14 @@
+#shop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.yourgold{
+display:flex;
+align-items: center;
+}

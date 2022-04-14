@@ -1,0 +1,10 @@
+.ItemInSale{
+    list-style: none;
+}
+
+.hoverme{
+    visibility: hidden;
+}
+
+.btndisabled:hover .hoverme{
+    visibility: visible;}

@@ -1,0 +1,12 @@
+.Equiped-items{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#EquippedItems{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
+    width: 100%;
+}

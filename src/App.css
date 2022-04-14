@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
+p{
+  font-family: 'MedievalSharp', cursive;
+}
+
+body{
+  overflow: hidden;
+}
