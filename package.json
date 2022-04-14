@@ -2,6 +2,7 @@
   "name": "pigameweb",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://francorodriguez99.github.io/reactreduxgam/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "cra-template": "1.1.3",
@@ -11,6 +12,8 @@
     "react-scripts": "5.0.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -35,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "web-vitals": "^2.1.4"
   }
 }

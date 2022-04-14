@@ -18,7 +18,7 @@ function ChoseName() {
         onChange={(event) => (randon = event.target.value)}
         placeholder="Name / Nombre"
       ></input>
-      <div>
+      <div id="languages">
         <button onClick={() => start(0)}>Press me to start in English</button>
         <button onClick={() => start(1)}>
           ¡Presioname para comenzar en Español!
