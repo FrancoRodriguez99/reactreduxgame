@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/reactreduxgame/static/css/main.9a7fbee5.css",
-    "main.js": "/reactreduxgame/static/js/main.cb87d0fb.js",
+    "main.js": "/reactreduxgame/static/js/main.3f5632fc.js",
     "static/media/city.jpg": "/reactreduxgame/static/media/city.0559fc7bbc8ed02b3bcb.jpg",
     "static/media/OldRuins.jpg": "/reactreduxgame/static/media/OldRuins.1c6fa39d968de9707e10.jpg",
     "static/media/MadForest.jpg": "/reactreduxgame/static/media/MadForest.260d3def2fcfe76d6696.jpg",
     "static/media/menubackground.jpg": "/reactreduxgame/static/media/menubackground.61c935254c17c80d9835.jpg",
     "index.html": "/reactreduxgame/index.html",
     "main.9a7fbee5.css.map": "/reactreduxgame/static/css/main.9a7fbee5.css.map",
-    "main.cb87d0fb.js.map": "/reactreduxgame/static/js/main.cb87d0fb.js.map"
+    "main.3f5632fc.js.map": "/reactreduxgame/static/js/main.3f5632fc.js.map"
   },
   "entrypoints": [
     "static/css/main.9a7fbee5.css",
-    "static/js/main.cb87d0fb.js"
+    "static/js/main.3f5632fc.js"
   ]
 }
