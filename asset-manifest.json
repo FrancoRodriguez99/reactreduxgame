@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactreduxgam/static/css/main.c922f835.css",
+    "main.js": "/reactreduxgam/static/js/main.5e3fbeca.js",
+    "static/media/city.jpg": "/reactreduxgam/static/media/city.0559fc7bbc8ed02b3bcb.jpg",
+    "static/media/OldRuins.jpg": "/reactreduxgam/static/media/OldRuins.1c6fa39d968de9707e10.jpg",
+    "static/media/MadForest.jpg": "/reactreduxgam/static/media/MadForest.260d3def2fcfe76d6696.jpg",
+    "static/media/menubackground.jpg": "/reactreduxgam/static/media/menubackground.61c935254c17c80d9835.jpg",
+    "index.html": "/reactreduxgam/index.html",
+    "main.c922f835.css.map": "/reactreduxgam/static/css/main.c922f835.css.map",
+    "main.5e3fbeca.js.map": "/reactreduxgam/static/js/main.5e3fbeca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c922f835.css",
+    "static/js/main.5e3fbeca.js"
+  ]
+}
